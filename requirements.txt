@@ -1,6 +1,10 @@
 dvc
 dvc[gdrive]
-sklearn
+scikit-learn
 pandas
+numpy
+matplotlib
+seaborn
 pytest
 tox
+
